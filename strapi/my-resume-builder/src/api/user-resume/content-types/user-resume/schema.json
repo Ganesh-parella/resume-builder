@@ -1,0 +1,80 @@
+{
+  "kind": "collectionType",
+  "collectionName": "user_resumes",
+  "info": {
+    "singularName": "user-resume",
+    "pluralName": "user-resumes",
+    "displayName": "User Resume"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "resumeId": {
+      "type": "string"
+    },
+    "userEmail": {
+      "type": "string"
+    },
+    "userName": {
+      "type": "string"
+    },
+    "firstName": {
+      "type": "string"
+    },
+    "lastName": {
+      "type": "string"
+    },
+    "address": {
+      "type": "string"
+    },
+    "jobTitle": {
+      "type": "string"
+    },
+    "phone": {
+      "type": "string"
+    },
+    "email": {
+      "type": "string"
+    },
+    "summary": {
+      "type": "text"
+    },
+    "experience": {
+      "type": "text"
+    },
+    "education": {
+      "type": "text"
+    },
+    "skills": {
+      "type": "text"
+    },
+    "certifications": {
+      "type": "text"
+    },
+    "projects": {
+      "type": "text"
+    },
+    "hobbies": {
+      "type": "text"
+    },
+    "languages": {
+      "type": "text"
+    },
+    "themeColor": {
+      "type": "string"
+    },
+    "layout": {
+      "type": "string"
+    },
+    "enableHrLines": {
+      "type": "boolean",
+      "default": true
+    }
+  }
+}
