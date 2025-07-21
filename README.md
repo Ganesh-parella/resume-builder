@@ -42,9 +42,16 @@ Edit
 ---
 
 ## 📸 Screenshots
+<img width="960" height="454" alt="Screenshot 2025-07-21 230616" src="https://github.com/user-attachments/assets/cef86c67-2b00-4cbd-96d6-a613ae485b2e" />
+<img width="960" height="448" alt="image" src="https://github.com/user-attachments/assets/2bcb67c0-8469-4cc7-9627-960cf17b10b8" />
+<img width="1830" height="1002" alt="image" src="https://github.com/user-attachments/assets/c4a4436f-6903-47f7-856c-bf387642b6ab" />
+<img width="1875" height="1042" alt="image" src="https://github.com/user-attachments/assets/cb821d90-9626-4745-be40-a86873d176c0" />
+<img width="1875" height="1132" alt="image" src="https://github.com/user-attachments/assets/1dbbf985-9969-41d4-b845-7bed23ad3e53" />
+<img width="1856" height="940" alt="image" src="https://github.com/user-attachments/assets/fa3e5153-0e99-4ae3-aad3-5dc3cb5c3832" />
+<img width="1920" height="963" alt="image" src="https://github.com/user-attachments/assets/800e1795-da90-42cf-95cd-d4e964065cc4" />
+<img width="1744" height="783" alt="image" src="https://github.com/user-attachments/assets/7c35e4b0-0e5b-4385-825a-08f2b5a90254" />
 
-> Add UI screenshots or a demo GIF here  
-> _Example_: Live preview panel, template selector, summary generation modal, etc.
+
 
 ---
 
@@ -134,20 +141,5 @@ ResuCraft was built to help job-seekers create standout, modern resumes with min
 
 Created with 💙 by Ganesh Parella
 
-markdown
-Copy
-Edit
 
----
 
-### ✅ Next Steps:
-- Replace `#` in `Live Demo` with your deployed link (when ready)
-- Add screenshots under the `Screenshots` section
-- Paste this `README.md` into your GitHub repo or `frontend/README.md` if using monorepo
-
-Want me to:
-- Generate screenshots?
-- Write deploy steps for Vercel and Render?
-- Add GitHub badges?
-
-Let me know!
