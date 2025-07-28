@@ -28,16 +28,14 @@ ResuCraft is a powerful web application that helps users craft modern, ATS-frien
 ---
 
 ## 📦 Folder Structure
-
+```
 resucraft/
 ├── frontend/ # React (Vite) client
 ├── backend/ # Strapi CMS backend
 ├── README.md
 └── ...
 
-yaml
-Copy
-Edit
+```
 
 ---
 
